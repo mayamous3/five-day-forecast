@@ -1,0 +1,20 @@
+:root {
+    --color-1: #6366f1;
+    --color-2: #06b6d4;
+    --dark-text: #312e81;
+    --light-text: white;
+
+  }
+
+h2{
+    color:var(--dark-text)
+}
+h1 {
+    background: linear-gradient(to left, var(--color-1), var(--color-2));
+    color: var(--light-text)
+}
+
+.fiveday {
+    background-color: var(--color-2);
+    color: var(--light-text)
+}
