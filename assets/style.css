@@ -1,3 +1,4 @@
+/*Root class to define color themes for weather site*/
 :root {
     --color-1: #6366f1;
     --color-2: #06b6d4;
@@ -9,6 +10,7 @@
 h2{
     color:var(--dark-text)
 }
+/*Apply Gradient coloring behind heading*/
 h1 {
     background: linear-gradient(to left, var(--color-1), var(--color-2));
     color: var(--light-text)
