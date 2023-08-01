@@ -1,4 +1,4 @@
-function fetchWeatherAndDisplayForecast(city) {
+function fetchWeatherAPI(city) {
 //define the key and url used to access the api
     const Key = '4d93daea6566fa195be2bba47492c101';
     const Url = `https://api.openweathermap.org/data/2.5/forecast?q=${city}&appid=${Key}`;
