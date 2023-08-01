@@ -1,5 +1,11 @@
 # five-day-forecast
 
+## Overview
+
+### Deployed Link
+
+### Application Screenshot
+
 ## Accomplishments
 - Used Bootstrap formatting to match mock-up layout of the website.
 - Applied styling to make the website visually appealing.
